@@ -1,3 +1,3 @@
 A resource for doing things _au naturel_.
 
-### [YouMightNotNeedjQuery.com](http://youmightnotneedjquery.com)
+### [blacklightdesign.github.io/youmightnotneedjquery/](https://blacklightdesign.github.io/youmightnotneedjquery/)
